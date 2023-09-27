@@ -1,6 +1,6 @@
 ### Hello
 
-I'm Robert. I currently lecture on anything related to data, the web or development at [CMD Amsterdam](https://cmd-amsterdam.nl/), a BSc programme at the [Hogeschool van Amsterdam](https://hva.nl). I mainly use GitHub as a portfolio, so if you're visiting this page from [robertspier.nl](https://robertspier.nl): Welcome! feel free to browse around.
+I'm Robert. I currently work as a Creative Technologist (in practice, a front-end developer with a _lot_ of side hobbies) at Deloitte. I mainly use GitHub as a portfolio, so if you're visiting this page from [robertspier.nl](https://robertspier.nl): Welcome! feel free to browse around.
 
 I do some stuff with interfaces, but mainly specialise in the management of data and / or information in large complex systems. I like to be the bridge between applications and humans, and have dedicated professionals to help me on those flanks. I can be reached at robert.spier [at] gmail. I assume most of you can deduce which address to use.
 
